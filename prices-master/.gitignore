@@ -1,0 +1,6 @@
+.*
+!.coveragerc
+!.gitignore
+!.travis.*
+*.py[co]
+*~
